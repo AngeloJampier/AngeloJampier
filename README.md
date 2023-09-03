@@ -1,6 +1,8 @@
-## Hi niños poller
+<div align="center">
+  ## ¡Hola! Soy Angelo
+</div>
 
-¡Hola! Soy Angelo, soy un programador apasionado por el desarrollo Frontend. Tengo experiencia trabajando con HTML, CSS y JavaScript, React y me encanta crear experiencias web interactivas y atractivas.
+Soy un programador apasionado por el desarrollo Frontend. Tengo experiencia trabajando con HTML, CSS y JavaScript, React y me encanta crear experiencias web interactivas y atractivas.
 
 🚀 Actualmente estoy enfocado en aprender y dominar los marcos de trabajo modernos como React y mejorando mis habilidades de diseño UI/UX.
 
