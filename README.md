@@ -8,6 +8,7 @@ Soy un programador apasionado por el desarrollo Frontend. Tengo experiencia trab
 <p>
 🚀 Actualmente estoy enfocado en aprender y dominar los marcos de trabajo modernos como React y mejorando mis habilidades de diseño UI/UX.
 <p/>
+<p>
 💼 Además de mis estudios, he contribuido a proyectos de código abierto y he trabajado en equipos de desarrollo colaborativos. Estoy emocionado por seguir creciendo como desarrollador Frontend y contribuir al mundo de la tecnología.
 <p/>
   
