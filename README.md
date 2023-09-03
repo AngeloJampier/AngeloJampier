@@ -1,5 +1,5 @@
 <div align="center">
-  ## ¡Hola! Soy Angelo
+  ¡Hola! Soy Angelo
 </div>
 
 Soy un programador apasionado por el desarrollo Frontend. Tengo experiencia trabajando con HTML, CSS y JavaScript, React y me encanta crear experiencias web interactivas y atractivas.
