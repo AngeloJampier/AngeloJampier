@@ -6,8 +6,6 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyRCR&title_color=fff&icon_color=EAD41C&show_icons=true&text_color=fff&bg_color=DEG,121212,434343)](https://github.com/AndyRCR/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyRCR&show_icons=true&hide=C%23,Java,SASS&custom_title=Most+Used+Technologies&title_color=fff&text_color=fff&layout=compact&bg_color=DEG,434343,121212)](https://github.com/AndyRCR/github-readme-stats)
 
 </div>
