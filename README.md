@@ -4,4 +4,6 @@
 
 💼 Además de mis estudios, he contribuido a proyectos de código abierto y he trabajado en equipos de desarrollo colaborativos. Estoy emocionado por seguir creciendo como desarrollador Frontend y contribuir al mundo de la tecnología.
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloJampier&show_icons=true&custom_title=Most+Used+Technologies&title_color=fff&text_color=fff&layout=compact&bg_color=DEG,434343,121212)](https://github.com/AngeloJampier/github-readme-stats)
+<div align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloJampier&show_icons=true&custom_title=Most+Used+Technologies&title_color=fff&text_color=fff&layout=compact&bg_color=DEG,434343,121212)](https://github.com/AngeloJampier/github-readme-stats)
+</div>
